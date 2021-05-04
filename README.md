@@ -1,4 +1,4 @@
-# How Fast Can you Type?
+# How Fast Can you Type? (✿◡‿◡)
 
 A web-app-in-progress that measures the amount of time it takes for you to type a specific sentence.
 
